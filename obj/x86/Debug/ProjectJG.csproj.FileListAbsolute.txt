@@ -1,0 +1,108 @@
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\App.xbf
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\MainPage.xbf
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\ProjectJG.xr.xml
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\ProjectJG.exe
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\ProjectJG.pdb
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\resources.pri
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\AppxManifest.xml
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\Core\ProjectJG.exe
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\ProjectJG.build.appxrecipe
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\JWT.dll
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\System.Runtime.dll
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\Twilio.dll
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\ProjectJG.csproj.AssemblyReference.cache
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\App.g.i.cs
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\App.g.cs
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\MainPage.g.cs
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\App.xaml
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\MainPage.xaml
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\App.xbf
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\MainPage.xbf
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\ProjectJG.csproj.CoreCompileInputs.cache
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\ProjectJG.csproj.Up2Date
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\ProjectJG.exe
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\ProjectJG.pdb
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\FxResources.System.Data.SqlClient.SR.resw
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\FxResources.System.Diagnostics.DiagnosticSource.SR.resw
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\priconfig.xml
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\resources.resfiles
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\pri.resfiles
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\qualifiers.txt
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Usuario Admin\source\repos\ProjectJG\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441671520000000.json
+C:\Users\Usuario Admin\source\repos\ProjectJG\bin\x86\Debug\appsettings.json
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\App.xbf
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\MainPage.xbf
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\ProjectJG.xr.xml
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\ProjectJG.exe
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\ProjectJG.pdb
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\resources.pri
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\AppxManifest.xml
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\Core\ProjectJG.exe
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\ProjectJG.build.appxrecipe
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\JWT.dll
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\System.Runtime.dll
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\Twilio.dll
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\ProjectJG.csproj.AssemblyReference.cache
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\App.g.i.cs
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\App.g.cs
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\MainPage.g.cs
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\App.xaml
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\MainPage.xaml
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\App.xbf
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\MainPage.xbf
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\ProjectJG.csproj.CoreCompileInputs.cache
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\ProjectJG.csproj.Up2Date
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\ProjectJG.exe
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\ProjectJG.pdb
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\priconfig.xml
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\resources.resfiles
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\pri.resfiles
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\qualifiers.txt
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Usuario Admin\OneDrive\Gaby\OneDrive\Documents\proyectos NET\ProjectJG\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441671520000000.json
